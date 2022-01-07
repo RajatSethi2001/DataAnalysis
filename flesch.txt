@@ -1,0 +1,704 @@
+Abstract
+Human-centered design expands the context and reach of the work of technical
+communicators and provides an opportunity to investigate and advocate for the
+needs of vulnerable populations. This article summarizes and contributes to the
+conversation about social justice occurring in both technical communication and
+design. Using a variety of qualitative methods as a type of design ethnography, this
+article shares findings from a study that investigated the experiences of homeless bus
+riders. The study findings provide an opportunity to examine the design of informa-
+tion and communication technologies and changes to policies that impact vulnerable
+populations. The article discusses the implications of an advocacy perspective for
+technical communicators practicing human-centered design and their role and
+opportunity to bring about socially responsible design.
+Keywords
+human-centered design, vulnerable populations, resource-constraints
+Introduction
+Technologies are becoming more ubiquitous and embedded in our daily lives
+and are increasingly incorporated into all types of services and systems in our
+surroundings, communities, and governments. The digitization of daily life
+Journal of Technical Writing and
+Communication
+2016, Vol. 46(4) 427–445
+!The Author(s) 2016
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0047281616653494
+jtw.sagepub.com
+1University of Washington Tacoma, Tacoma, WA, USA
+Corresponding Author:
+Emma J. Rose, University of Washington Tacoma, Tacoma, WA 98402, USA.
+Email: ejrose@uw.edu
+provides an opportunity to ask questions such as how is the world being designed,
+who is doing the designing, and what is the impact? For example, the move to
+e-government can improve transparency, public engagement, and participation
+and also increase access to government services. However, these opportunities
+also come with challenges. The move to digital services makes assumptions
+about people’s digital literacies and access to the Internet and technology.
+Looking at the resulting designs, we must ask, Who, either by intention or by
+design, is being left out? It is within this space that I am positioning this article.
+I propose that a social justice perspective in technical communication and
+human-centered design can reveal the ways that technologies embed existing
+inequities into their designs and risk further disenfranchising already vulnerable
+populations.
+Human-centered design is an approach that focuses on the needs, contexts,
+desires, and input of the people who are the audience, or users, of the design.
+The choice of the term human-centered design, instead of the more traditional
+user-centered design, is intentional and moves away from the idea that we are
+focusing on people solely in their relationship to and use of technology. Gasson
+(2003) claims that a user-centered approach is inherently more technology
+focused, whereas a human-centered approach takes a sociotechnical view and
+strives to balance the two (sometimes) contradictory systems: the first being the
+social system of human activities informed by goals, knowledge, organizational
+context, and culture-specific practices and the second being the technical systems
+that are rule-based, formal, and measurable. Therefore, human-centered design
+represents a broader conceptualization in regards to the design of information
+and technologies. It is not enough to include users in the design process or to
+focus solely on efficiency as a system value. Instead, human-centered design
+should look more broadly and provide a way to consider how design can sup-
+port or constrain the needs of people whose lives are impacted by both the
+systems and policies that are created by a more digitized world.
+Human-centered design provides an approach that can both inform design
+and offer a critique to examine larger structural issues. My goal in this article is
+to consider how we as technical communicators and designers can contribute
+carefully and ethically to projects that advocate for solutions that promote and
+value equity. First, I provide a brief overview of the growing interest in social
+justice concerns in the fields of technical communication and design. Second,
+I situate this discussion by defining the concept of resource-constrained contexts
+and showing how the examination of constraints provides an opportunity to
+consider tensions between people’s needs and system designs. Third, I present a
+selection of findings from a study that examined the resource-constraints of
+transportation and housing. Fourth, I use the study findings to ground a critique
+of the design and policies deployed in a public transportation’s informational
+ecosystem. Finally, I conclude by discussing the implications of an advocacy
+perspective for technical communicators practicing human-centered design.
+428 Journal of Technical Writing and Communication 46(4)
+Social Justice and Responsibility in Technical
+Communication and Design
+In this section, I present examples of social justice concerns in the technical
+communication and design literature. My research, like that of many others,
+crosses the porous boundaries between the two fields. By providing examples
+from both, my aim is to highlight connections and similarities. Historically, both
+fields focused on the genres, technologies, and practices that people engage in
+while “at work.” As technologies move beyond the workplace, we must continue
+to expand our research to include a variety of contexts, activities, and spaces and
+to understand and collaborate with the people who occupy these spaces.
+Technical Communication
+Within technical communication, the space between users and writers is shrink-
+ing. As Salvo (2001) states, this shift in user-centered design that employs rhet-
+orical methodology moves from an “observation of users to participation with
+users” (p. 273). With this shift comes increasing acknowledgment of the ethical
+responsibility that we, as technical communicators, have as researchers. Salvo
+argues persuasively for developing and deploying dialogic ethics in user-centered
+design research. As Salvo writes, “when one engages another person as an indi-
+vidual, as a person, one recognizes the humanity of the other” (p. 276). Salvo
+argues that dialogical ethics are critical to researchers, because they help us avoid
+the deployment of usability practices that are motivated solely by commercial
+interests and that focus on efficiency above all else. Dialogical ethics require us to
+be with the user in their discomfort and frustration. Salvo argues that these
+responsibilities are both pedagogical and rhetorical. We engage with users not
+only to learn from them but also to be able to communicate their discomfort back
+to technology designers, developers, and organizations (Salvo, 2001).
+When we take into account a social-justice perspective, we can consider how
+ethical responsibilities extend beyond the relationships between users, research-
+ers, and developers. Social justice may also ask us to consider whom it is we
+speak of when we speak of users. Whose discomfort are we bearing witness to?
+Who can alleviate this discomfort? Looking further to marginalized, vulnerable,
+and potentially ignored groups can compel us to develop a more complex under-
+standing of users. Also, when we talk about making the discomfort of users
+present and felt, who should be the recipient of that discomfort? Is it solely
+the individuals and the organizations who design technologies? Or should we
+look beyond the technologists to policy and decision makers?
+In addition to the need to consider our ethical positioning in relation to users
+and stakeholders, the field of technical communication is also embracing the
+expanding contexts and increasing complexities of the arenas in which our work
+takes place. Walton and Jones (2013) articulate that context is a central factor in
+Rose 429
+social justice work, particularly because of the complexity of connections across
+cultures, disciplines, and organizations. These expanding contexts are demon-
+strated by genre ecologies; the relationships between race, rhetoric, and technol-
+ogy; and post-human rhetorics.
+Spinuzzi and Zachry’s (2000) framework of genre ecologies provides a
+helpful guide for considering design because it focuses our attention on the
+ways that people are coordinating resources, such as documents, genres, and
+technologies, to achieve their goals. Situated as a sociocultural approach,
+genre ecologies acknowledge that systems are open, rather than closed, and are
+informed by contingency, decentralization, and relative stability. Investigating
+these three characteristics in relation to social practices, both individual and com-
+munal, can provide insight into use and design (Spinuzzi & Zachry, 2000).
+When examining the intersections between race, rhetoric, technology, and
+technical communication, Haas (2012) argues that, as our contexts expand, we
+are reminded “that all our users are not reflections of ourselves” (p.281). For
+technical communication scholars, the social justice project is necessary, not
+only to examine more diverse spaces, cultures, and needs but also to consider
+self-reflexively how our own training and perspectives may intentionally recreate
+the status quo, or blind us to a more critical stance. As she states:
+Even in the most progressive spaces and places, the colonial rhetorical detritus of
+racism and ethnocentrism remains, and if these worldviews and rhetorics go
+unchallenged, they will continue to influence who and what we think of when we
+consider issues of race and technological literacy and expertise (p. 287).
+My hope is to continue to problematize some of these issues in the findings section
+by examining the notion of expertise and who we regard as experts.
+Mara and Hawk (2009) consider that the field has always been post-human,
+because of its inclination to see the writer and the product of the writer’s work as
+situated in larger contexts, be they organizational, institutional, or techno-
+logical. A post-human perspective also positions the technical communicator
+within a larger societal context and, within that context, acknowledges the
+inequities, both structural and circumstantial, that are embedded in this broader
+context. We exist in that inequitable context as do the readers, users, and audi-
+ences who are the focus of what we produce. Acknowledging and examining
+these contexts, as this article does, provide a broader sense of what is within our
+realm of inquiry.
+In addition to a wider variety of diversity in terms of contexts and people, the
+field of technical communication has historically considered the creation of
+policy in addition to technologies and systems. This space of policy creation is
+directly tied to a social justice project due to its ability to codify regulations for
+communities. In their work on public deliberation, Simmons and Grabill (2007)
+acknowledge that indirect exclusion is the norm. Most community members lack
+430 Journal of Technical Writing and Communication 46(4)
+the expertise or understanding of social norms and deliberative practices needed
+to enter immediately into a conversation related to policy making. Is it then
+possible or desirable for technical communicators to move into these roles to
+mitigate exclusion? Are there ways our methods can go beyond the current
+methods being used and bring to light the complexities of public policy deci-
+sions? In Grabill’s (2009) work on HIV/AIDS policy work, he articulates a clear
+activist stance for researchers in professional writing in order to consider how
+our work can bring about policy change. He asks:
+Would policy look different if those most silent were suddenly active? Would policy
+look different if greater numbers of clients could participate? Probably. This is the
+problem of client involvement, then: how to improve or change the processes of
+involvement so that greater numbers and varieties of people can participate in
+making public policy. (p. 31)
+He goes further to say that, although an activist stance does not just facilitate
+public input into the process, it can actually bring about changes to the processes
+themselves and, further, to ways in which policies are made.
+With the change in focus, the broadening of scope, and the interest in taking
+an activist stance in our research, technical communication scholars have
+deployed a wide array of research methods to understand the contexts related
+to social justice. As Grabill (2009) asks, “we always ‘take sides’ in our research
+(even in the most mundane ways), so how do we do this in ways which are
+ethically and politically sound (or at least justifiable)” (p. 33)? Blythe, Grabill,
+and Riley (2008) use critical action research in their study that engaged a local
+community-based project related to contaminated waste. As they state, action
+research with a commitment to social justice “requires intervention, not simply
+description” (Blythe et al., 2008, p. 2). In his call for decolonialized methodol-
+ogies in intercultural technical communication research practices, Agboka
+(2014) articulates the need for technical communication researchers to develop
+approaches that are “cognizant of local logics, rhetorics, histories, philosophies
+and politics” (p. 298). While he focuses primarily on contexts of international
+technical communication research, I argue that researchers can and should apply
+these approaches to resource-constrained populations in developed countries in
+order to pursue research related to social justice.
+Design Within Human–Computer Interaction
+As scholars of technical communication continue to explore expanded contexts
+and methods that examine issues related to social justice, we see a parallel in the
+design literature of human-computer interaction. Buchanan (2001), while reflect-
+ing on what he refers to as “new design thinking,” represented by the shift to
+human-centered design is “not a rejection of function, but a recognition that
+Rose 431
+unless designers grasp the significant content of the product they create, their
+work will come to little consequence or may even lead to harm in our complex
+world” (p. 35). This idea suggests that designers have a responsibility and obli-
+gation to account for the ways in which their work can impact people. He goes
+on to define human-centered design in a way that elaborates and expands its
+meaning and, to this author, makes the shift from user, use, and activity to
+humans being at the center of the design process
+Human-centered design is fundamentally an affirmation of human dignity. It is an
+ongoing search for what can be done to support and strengthen the dignity of
+human beings as they act out their lives in varied social, economic, political and
+cultural circumstances. (p. 37)
+Building on Buchanan’s work, Caruso and Frankel (2010) argue that the role of
+the designer has shifted and expanded. Design has moved from being interested
+in purely aesthetic concerns to the need to account for a diverse and complex
+world that often looks very different from a designers’ experience and reality.
+Caruso and Frankel invoke the construct of wicked problems to help with this
+dilemma. Wicked problems are ones that are constantly shifting, contextual,
+social, and not easily solved. In their characterization of wicked problems and
+why a systems based approach is not adequate to address them, Rittel and
+Webber (1973) state, “one cannot understand the problem without knowing
+about its context; one cannot meaningfully search for information without the
+orientation of a solution concept; one cannot first understand, then solve”
+(p. 162). While within a design process, we often demarcate specific phases of
+solving the problem, a linear path from problem to solution does not exist in
+wicked problems. Wicked problems exist throughout domains in the social
+realm, such as education, healthcare, poverty, and public planning. Because
+these problems represent a series of interlocking issues, they must be investigated
+as design problems through interdisciplinary practice.
+Caruso and Frankel find direction for designing wicked problems from a
+social model of design practice. A social model of design practice is derived
+from an ecological perspective, inspired by the practice of social work, and
+privileges the satisfaction of human needs (Margolin & Margolin, 2002). The
+ecological perspective is enacted by examining the people and organizations
+within a system—individuals, families, groups, and communities—but also
+the domains within the environment, including cultural, social, physical,
+and so forth. This parallels technical communications’ interest in post-humanism
+(Mara & Hawk, 2009) and the framework of genre ecologies (Spinuzzi &
+Zachry, 2000). A more holistic view of design requires that designers engage
+in participant observation and become embedded within the context to generate
+a deeper understanding of the design challenges. For example, in a social model
+of design practice, working alongside the helping professions and exploring their
+432 Journal of Technical Writing and Communication 46(4)
+methods provides insights into the complexities related to socially embedded
+problems of a particular site in order to generate impactful design solutions.
+Another significant shift to the broader context and impact of design is found
+in the practice of value sensitive design (VSD), defined as a “theoretically
+grounded approach to the design of technology that accounts for human values
+in a principled and comprehensive manner throughout the design process”
+(Friedman, Kahn Jr., & Borning, 2006, p. 349). VSD focuses on the human
+values of direct and indirect stakeholders in order to bring about a design that
+is sensitive and accounts for those values. VSD consists of a tripartite method-
+ology investigating conceptual, empirical, and technical angles. A VSD engage-
+ment can start with one of these areas and is an iterative process in which each
+phase can be revisited. The conceptual phase asks, Who are the direct and indirect
+stakeholders, how will they be affected by design, and what values are implicated?
+The empirical stage investigates the human context in which the technical artifact
+is situated. It applies to any activity that can be observed or measured and uses a
+range of quantitative and qualitative methodologies. The technical phase inves-
+tigates the technologies in the face of identified values: As Friedman et al. (2006)
+state, a “given technology is more suitable for certain activities and more readily
+supports certain values while rendering ”other activities and values more difficult
+to realize” (p. 73). By ensuring that values are at the center of the design process,
+considerations for design extend beyond the immediate users to include those who
+may be indirectly impacted by a technology; therefore, VSD broadens the scope of
+questions that we as designers must contend with.
+In both technical communication and design, we see an acknowledgement of
+the responsibilities of the researcher, writer, and designer. We also see how the
+expanding context of design spaces requires broader research approaches and
+reflection. In the next section, I explore the idea of resource-constrained contexts
+and provide details about a study that investigated the needs of a group of
+people who had limited access to housing and transportation.
+Understanding the Experience of Homeless Bus Riders
+In my work, I use the term resource-constrained contexts, which includes both
+developing countries and vulnerable or underserved populations in developed
+countries. A resource-constrained environment, in this formulation, is any
+context with limited access to, or reduced availability of, resources.
+Resources include physical as well as social infrastructure and range from
+robust bandwidth to electricity to literacy. Examining constraints provides an
+opportunity to examine tensions that occur between human intentions, actions,
+and needs and the systems, resources, and technologies that mediate our worlds.
+To illustrate how resource constraints impact use, I present research related
+to the constraints of transportation and housing. The next section provides a
+subset of findings from a larger study examining the experience of people who
+Rose 433
+rely on public transportation. These findings focus on particularly vulnerable
+participants in the study, who had limited access to stable housing.
+Transportation is a key resource because it acts as a conduit to other resources:
+Without reliable transportation, it is difficult, if not impossible, to access
+resources such as employment and healthcare, or to maintain and create
+social connections. Additionally, people who are homeless, whether temporarily
+or for long stretches of time, face a variety of challenges that impact all aspects
+of their lives, especially their physical and mental well-being.
+In the design literature, a variety of studies have focused on the needs of home-
+less populations. Le Dantec and Edwards (2008) investigated the needs of a group
+of homeless people in order to identify design considerations and appropriate
+technology solutions. Their research highlighted the ways in which homeless
+people needed and accessed information and also identified the important role
+that the mobile phone plays in maintaining social connections with family and
+friends. Additional studies by Woelfer, Hendry, and colleagues looked specifically
+at homeless youth and identified the important roles that technologies, including
+mobile phones and social networking sites, play in both creating and maintaining
+social networks and expressing identities both on and offline (Woelfer & Hendry,
+2010a, 2010b; Woelfer, Iverson, Hendry, Friedman, & Gill, 2011).
+Methods
+The primary aim of my research was to investigate how people experience and
+overcome challenges in their daily lives—specifically, challenges related to trans-
+portation. The goal was to generate ideas that could inform the design of infor-
+mation technologies. Accordingly, I designed a study that uses a variety of
+qualitative methods as a type of design ethnography (Salvador, Bell, &
+Anderson, 1999). Design ethnography creates the opportunity to understand
+the cultural and social context of everyday life to provide examples and rich
+descriptions that can inform the designs of technologies. The methods that
+made up this particular design ethnography included participant observation,
+in the form of both transit-use and ride-alongs with participants, semistructured
+group interviews, and video diaries. I chose these methods in order to explore the
+experiences that transit dependent riders faced and discover the strategies they
+used to overcome challenges. To engage participants in a way that provided them
+with a sense of agency and influence over the research process, I asked participants
+to choose where they would like the research to take place (Agboka, 2014). As a
+result, the study took place in a variety of disparate settings that included partici-
+pants’ homes, community centers, coffee shops, buses, and a food court at a mall.
+The research protocol for this study was reviewed and approved by the insti-
+tutional review board at the University of Washington, including the methods,
+recruiting strategies, instruments, and informed consent procedures. As the
+study’s lead researcher, I conducted the informed consent procedures for each
+434 Journal of Technical Writing and Communication 46(4)
+of the multiple research activities. In Summer 2010, participants were recruited
+by posting flyers in transit and community centers around the city of Seattle,
+Washington, in the United States. Participants were screened based on criteria
+related to their access to transit; specifically, they had to use public transporta-
+tion as their primary mode of transportation and not own a private vehicle.
+Because the study was interested in the social experience of transit riders, par-
+ticipants were asked to bring others in their social network to the research
+activities. In total, six groups of people participated in the study. This article
+details specific findings from two groups that included people who were home-
+less; other findings from the broader study are described elsewhere (Rose &
+Racadio, 2012; Rose, 2011). Here, I want to focus specifically on findings related
+to the participants who were contending with the intersecting constraints of
+transportation and housing. While the recruiting protocol was not specifically
+designed to reach these populations, two of the five groups who participated in
+the study were either homeless or living in transitional housing. These circum-
+stances were not evident in the screening process, as we had no question that
+asked about living situations. It was not until the research interviews were
+underway that these details came to light. Nevertheless, including the diverse
+perspectives of these participants in the study gave it greater depth.
+Group 1 consisted of two men living in transitional housing, commonly
+known as a halfway house (this is temporary housing for groups of people
+who are transitioning from either rehabilitation programs or incarceration to
+other living situations). Group 2 was a socially connected group of five people:
+four men and one woman. The five of them were connected through the experi-
+ence of being homeless in Seattle. Each group took part in a semistructured
+interview in which they were asked questions (both as a group and also indi-
+vidually) about their experience with transit, their use of technology, and their
+ideas for improving transit. The interviews lasted between 1½ and 2 hours, and
+participants were compensated with a $20 gift card. As a follow-up activity, one
+participant from Group 1 met with the researcher several more times. This
+included taking part in a ride-along: The researcher and the participant rode
+the bus together to discuss the daily experience. In addition, this same partici-
+pant took part in a follow-up video-diary study, which was designed to capture
+the day-in-the-life experience of riding transit. The participant was given a digi-
+tal video camera (valued at approximately $100) to record his observations and
+was given the camera as an honorarium. The use of video diaries was intended to
+allow the research participant to guide the research process. This technique was
+a modification of the Photovoice method (Wang & Burris, 1997). Participants
+were given open-ended prompts: for example, What decisions did you make today
+about transportation? What was the experience of taking transportation to get
+somewhere like for you? and What impact did your transportation have on your
+day? As in Agboka’s (2014) work on decolonizing methods, the goal of selecting
+open prompts was to encourage participants to share what was of greatest
+Rose 435
+interest to them, rather than have the research team narrowly define the research
+questions and scope.
+The interview data were the primary source data for the research study.
+Interview questions included details about car ownership, transit use, and tech-
+nology use. In addition, the interviews focused on strategies that participants
+used when public transportation was challenging or did not get them to where
+they needed to go on time. Following standard qualitative research coding tech-
+niques (Coffey & Atkinson, 1996), I along with a research team coded the inter-
+view data with the web-based qualitative coding tool Saturate (n.d.). To
+establish consensus in coding the data, multiple researchers reviewed and
+coded each transcript, with a minimum of two and a maximum of five reviewers
+per transcript. The team generated codes and applied them in a consistent
+manner. When there was disagreement, the team discussed the code as a
+group and negotiated in order to achieve consensus. The team also coded
+(as secondary data) the data resulting from the participatory activities of the
+video diaries. Analyzed according to the emergent themes from the interview
+data, these sources helped to triangulate the research findings.
+Findings
+The results of the design ethnography identified a variety of practices and activ-
+ities that highlighted a variety of design opportunities for people living with
+resource constraints related to housing and transportation. In the next two
+sections, I discuss the findings and implications for the design of policies and
+systems that impact this population.
+Refuge and escape: A sense of being private in public . For the group of homeless
+participants in our study, being on the bus was an opportunity to enjoy private
+time and space in their lives, which at most other times are lived in the public
+sphere. Transit provides a refuge, which includes a sense of privacy and autonomy
+while in public. People who are homeless spend much of their time within the
+downtown core where there is a concentration of social services. They are also,
+due to their activities and appearance, often marked as homeless and asked not to
+loiter in public places. Our participants talked about the activity of riding the bus
+as being an equalizing one. Once on the bus, the homeless person is just another
+rider engaged in the legitimate and sanctioned purpose of moving around the city.
+There is a lot of chaos downtown. There’s chaos on buses too, but on buses, I don’t
+have people coming up to me asking to buy dope or drinking. I can listen to my CD
+player and just ride the bus.—Ryan1
+Instead of seeing transit’s function as purely instrumental and focused on effi-
+ciency, this finding broadened the perspective. Transportation is crucial for
+436 Journal of Technical Writing and Communication 46(4)
+people who are homeless because it offers an important, albeit brief, respite from
+the anxiety and stress of living on the streets. Relatedly, bus riders told stories of
+using public transportation like a cheap vacation—for example, taking a route
+that showed off a particularly picturesque part of the city or taking a new route
+just to see where it went.
+Saving and stretching money: Extreme measures, expertise, and fare evasion. When
+people live in poverty, they often do not have money for public transportation,
+or they have to prioritize other needs ahead of the cost of transportation. When
+a bus rider misestimates the cost or policies associated with transit, the results
+can be an inconvenience (at a minimum), an embarrassment, or a cause of stress.
+For example, Tim had a situation in which he did not understand that different
+transit agencies have different polices regarding providing transfers.
+Metro buses, they take transfers, but Sound Transit doesn’t take transfers any-
+more. You have to have cash. You want people to board the bus and ride it, why
+don’t you allow the transfer? I was down in Auburn, and they said, “We don’t take
+transfers.” I spent my last two dollars to board my bus, and I had to call my
+daughter to pick me up, because I couldn’t get there from here.—Tim
+To manage their limited resources, participants adopted strategies to save money
+on transit, both in sanctioned and unsanctioned ways. In sanctioned ways, the
+people in our study would become experts in the ways the systems worked. At
+the time of the study, there was a free ride zone that covered most of Downtown
+Seattle. The homeless group in particular knew the contours of this zone well
+and made use of it to save on having to pay (for example, by taking the bus
+to the edge of the free ride zone and then walking further to get to their
+destinations).
+We also heard stories from participants who engaged in what transit agencies
+call fare evasion, broadly defined as the act of not paying. However, in the data
+from the study, the practices of fare evasion were socially embedded, accepted,
+and enacted in various ways. Some riders admitted to using Seattle’s Free Ride
+Area as a way to get around paying. They might start a ride in the free zone and
+then, when it was time to pay, get off without paying. More commonly, we heard
+of the ways in which riders appealed to the kindness and sympathy of drivers.
+All of the riders in the homeless and transitional housing groups talked about
+the ways in which they had asked bus drivers for permission to ride without
+paying.
+I had a little job in Tacoma. The prices were different; I didn’t have enough money.
+It was one of those busses that takes you to Tacoma—different line. The price is
+different, and the guy let me go, so I asked for a transfer, he said no, I couldn’t. He
+let me ride, but no transfer.—Shawn
+Rose 437
+I have drivers tell me to put in what I have. I have a lot of that. I don’t have the
+fare, but I need to get there, so they say, “Put in what you have.”—Louis
+I would say that nine times out of 10, [the bus drivers] let you on and tell you, “Just
+put in what you have.”—Cynthia
+When I get on, I talk to them. I let them know [that I don’t have the fare]. Some are
+mean, and some aren’t—it depends on the driver. Some don’t want to; some say
+ok.—Louis
+Maybe a bit more consideration. I know that the system is not a charitable organ-
+ization, but if someone just started a job, and they don’t have bus money, I’m not
+asking to ride for free all the time. Be considerate of a person’s situation.—Eddy
+Other cost-saving strategies included taking cheaper routes or riding during off
+peak times, which allowed them to save $0.25 per ride, or walking further to pay
+less for the cost of an entire journey. Several of the riders in the homeless group
+leveraged charitable organizations to get support to pay for transportation.
+These examples demonstrate several points that are germane to the
+conversations related to social justice and design. First, members of this vulner-
+able population have deep expertise when it comes to using the resource of
+transportation. The expertise is community based and socially embedded, just
+as expertise is in many of the workplace systems we study in technical commu-
+nication. Using Spinuzzi and Zachry’s notion of genre ecologies, we can see how
+the people in our study used their expertise with genres (transfer tickets) and
+relationships (bus drivers) to attempt to achieve their goals. In this way, the
+transit informational ecosystem is an open system, accommodating activities
+that were not intentionally designed, but rather enacted by an individual’s
+knowledge. We learned that the use of transfer tickets was a socially embedded
+practice within particular communities. Learning to use transfers to gain an
+extra or extended ride was something that everyone just did, particularly in
+poor communities.
+There was a great deal of expertise embedded in these practices to gain
+cheaper or free rides. Bringing this notion of expertise to light, however, may
+involve its own challenges and tensions: By highlighting unsanctioned practices
+of an already vulnerable population, the researcher could put this population at
+risk. At the time of the study, the transit system was moving towards phasing
+out the free ride zone and continues to consider phasing out paper transfer
+tickets. So, is it ethical to expose the practices of the study’s participants, even
+though they are commonplace among people within these communities? By
+casting this population as expert and vulnerable, however, we can highlight
+the ways in which their knowledge can contribute to system improvements over-
+all. How can these considerations be included in user or design requirements for
+438 Journal of Technical Writing and Communication 46(4)
+new systems and policies? Knowing that poor bus riders maximize small
+amounts of money, how can transit policies and fares take into account micro
+transactions to aid these riders? For example, is it possible to support micro-
+transactions and provide for additional time on a transfer ticket for a small
+amount of money?
+Constraints related to relying on public transit. In addition to policies related to fares,
+the bus schedule structures and limits people’s ability to access other resources,
+such as employment. Several riders told stories of how the bus impacted their job
+prospects. One rider, for example, rode his bike 30 miles to work because no bus
+accommodated his early-morning shift at a fisheries’ plant. He mentioned that
+this commute was one of the reasons his employment at the plant ended. Others
+mentioned losing jobs because a bus was running late and their employer would
+not give them a second chance, probably due to the low-skill jobs some of the
+people in our study had.
+For the jobs that I have, I end up working in the evening and get off late at night.
+At the time, I was living (in a suburban area far from the city). I got off at 11:00,
+and I look at the schedule, and the bus stops running at 10:30. I would have to go
+all the way downtown to get an express bus at night. I’d have to wait an hour or
+two downtown, then take the express bus takes me to (another suburb). It would be
+so late that I’d miss the last bus up east hill and have to walk up a hill late at night.
+This was every night for three years. It was rainy and cold; it was a struggle. That’s
+a mile uphill.—Shawn
+We heard a variety of stories of participants walking or biking extreme distances
+to work—often late in the night or early in the morning—due to the lack of
+available service. These stories from participants demonstrate persistence and
+perseverance on the part of riders. At first blush, it may be unclear how these
+stories connect to the larger issue of advocacy for public transportation.
+However, a similar situation recently came to light in Detroit, and the story
+was picked up on social media. James Robertson, nicknamed Walking Man,
+walked to work 21 miles each day round trip, due to the lack of access to public
+transportation (Laitner, n.d.). This story puts a human face on a challenge
+encountered by many of the working poor. It has spawned not only an online
+giving campaign that has garnered over $350,000 and a car to be donated to
+Robertson, but it has also prompted a variety of conversations and debates over
+the lack of funding for public transportation. This is not to claim that our
+research examples can or should turn into newspaper stories, but it illustrates
+that putting a human face on a universal problem can help the community and
+policy makers see an issue in a different light.
+The examples presented here illustrate that the vulnerable populations in our
+study, like any riders, are impacted by costs, schedules, and lack of predictability
+Rose 439
+in bus service. But it also demonstrates the impact of these issues: What for some
+may be an inconvenience, for others could be devastating—the difference
+between keeping and losing a job, choosing between eating and paying for
+bus fare, or trying to stretch the limited amount of resources one has by
+taking risks to evade fares.
+Implications for Policy and Design
+The previous section highlights some of the experiences of the people who took
+part in our study. Using their stories as a starting point, I now present a series of
+reflections on changes to policies and technologies that potentially harm or
+neglect this population.
+No More Free Rides
+From 1973 to 2012, King County Metro Transit, the transit authority operating
+buses in the Seattle area, operated a Ride Free Area (RFA, n.d.) in the city of
+Seattle. The initial impetus for the RFA was both to support quick loading and
+unloading of buses, and to support local retailers in the downtown core. Due to
+increasing budget constraints that coincided with the recession and concerns
+about fare evasion, the free ride zone was eliminated by the King County
+Council. King County Metro estimated that they were losing up to $3.4 million
+annually, or 2.4% of total revenue, due to fare evasion (King County
+Washington, 2010). King County did extensive outreach to the public to under-
+stand concerns and strategies for ending the RFA. This consisted of a public
+comment period, the results of which appeared in a public engagement report
+(King County Metro Transit, 2012). The report specifically focused on public
+outreach and acknowledged that the plan had to reach “people with little or no
+income who have historically used the RFA to travel to essential services.”
+It therefore included a plan for instituting a new free service for those who
+could not afford bus fare. This service, called the circulator route, was imple-
+mented and is operated by the nonprofit organization Solid Ground. The bus on
+this route is free and makes various stops at medical facilities, food banks,
+missions, and shelters. While this circulator bus provides free limited transpor-
+tation to people in need, it does not allow them to “blend in” and find refuge on
+public transportation as they formerly could. For participants in our study, tran-
+sit served many purposes; it was not just a way to get from point A to point B.
+Now that even a short ride across town costs $2.50 at peak fare, their small
+opportunity for dignity is missing. Moreover, the circulator bus exacerbates the
+stigma—the bus looks different and has its own stop, which marks its riders as
+different: homeless, poor, and in need. The circulator bus was proposed as a way
+to offset the lack of the RFA, but could another solution have worked as well?
+Would a different design or policy solution meet the needs both of the transit
+agency, which could no longer provide free bus service downtown, and of the
+vulnerable populations who valued their positions on the bus, its legitimizing
+function, and the sense of privacy, belonging, and normalcy it provided?
+440 Journal of Technical Writing and Communication 46(4)
+Digitizing Fare Payment and Lack of Visibility of System Status
+Over the past several years, the transit agencies in the Puget Sound region have
+been transitioning to a smart card system known as the ORCA (One Regional
+Card for All). The ORCA system represents a growing trend among many urban
+transit systems. Transit agencies see a variety of benefits associated with the
+implementation of smart card systems: They are purported to speed up routes
+and maintain schedules by making fare collection quicker; they provide more
+insight and administrative ease to allow more visibility in routes and usage; and
+they are supposed to help combat fare evasion. How these systems are designed
+and implemented, however, has impacts and ramifications for riders, particu-
+larly for those who are vulnerable. For example, eliminating paper transfers is
+significant because of the ways in which the paper transfers help riders structure
+their time around leveraging a free return trip. Going digital removes some of
+the affordances of the paper system.
+We do not have insight into the deliberations, choices, and tradeoffs of the
+creators of the ORCA smart card system during their design process. We can see
+only the end result. But by examining the result, we can see how a switch to a
+digitized system has removed or deprioritized features that were valuable for the
+vulnerable populations in this study. Thinking about the needs of low-income
+riders, such as the homeless and the transit dependent, brings a different set of
+values and design considerations into play. Such considerations could prompt
+different design decisions to support these audiences. For example, if the home-
+less populations’ needs and values were to be considered, design requirements
+for the ORCA system would include a way to reveal how much time riders have
+left on a transfer, either via the card reader or by sending a SMS/text message to
+a mobile phone. Another possible design requirement would be to allow riders to
+purchase incremental add-ons to their rides, such as including the option to
+extend a transfer window for a small amount of time for a modest sum.
+LeDantec and Edwards (2008) noted the consequences when technologies do
+not work in these payment systems: “ ...it is not just the usability problems in
+the technology that affect homeless persons; the social stigma of being perceived
+as the homeless person without bus fare is a far more visceral consequence of a
+poorly designed technology” (p. 633).
+Human-Centered Design With an
+Advocacy Perspective
+The previous two sections showed how focusing on vulnerable populations can
+provide an alternative vantage point for the design of information and commu-
+nication technologies. In this section, I conclude by reflecting on what a social
+justice perspective, with a focus on advocacy, can offer to researchers and prac-
+titioners in technical communication who are engaged in human-centered design
+projects. As the scope of our work continues to broaden into a variety of design
+contexts, simply focusing on usability or even user-centered design is not ade-
+quate. Regardless of good intentions, if we fail to take into account the needs of
+Rose 441
+vulnerable populations, we are in danger of creating technologies that reinforce
+existing inequities. I do not mean to assert that our field is solely responsible for
+this perspective. Nevertheless, as the field of user-centered design and, more
+broadly, user experience continues to gain traction, we have a unique opportun-
+ity to advocate for inclusion of a social justice perspective in design conversa-
+tions with developers, organizations, and policymakers.
+Within this space, it is possible to consider how engaging in human-centered
+design can provide an opportunity for advocacy. Regarding qualitative research
+more broadly, Creswell (2003) refers to an advocacy perspective as one that
+starts by acknowledging a position of inequality or alienation and attempts to
+address that inequity. Taking an advocacy perspective in design could be bene-
+ficial for the design process, regardless of its context, but is particularly crucial
+for systems and policies (such as those relating to e-government, healthcare,
+public transportation, and civic design, to name a few) that are designed for a
+broad swath of users.
+First, it is crucial to identify vulnerable populations that are potentially
+impacted by a design and ensure that members of that population participate
+in the design process. Oftentimes, technical communicators represent the voice
+of the user on a development team. In most projects, we start with a consider-
+ation of user or audience needs: During this phase, we identify the target users
+and audiences. It is at this time that we should ask, Who might we be leaving
+out? What vulnerable populations are currently using the system? Do they have
+competing needs? Saving space in the conversation for a different set of users can
+help us to consider different design needs and prioritize different features.
+What if we devoted at least one design persona (Cooper, 1999) to represent a
+vulnerable population?
+Second, how do we privilege different kinds of expertise in the systems we are
+designing and documenting? While technical communication has a long history
+of working with experts, when we think of experts, we often do not think of
+vulnerable populations. However, the ways in which people with limited
+resources make do with what they have can reveal how systems are currently
+being used. How do we respect, leverage, and support their expertise as we
+design information and communication technologies?
+Third, regarding the choice of methods, what are appropriate and ethical ways
+to undertake research involving vulnerable groups? In what ways do our methods
+provide insights for these audiences? We see a shift from the main methods in user-
+centered design, such as usability testing and its focus on finding problems in the
+interface, to a human-centered design approach, which focuses on gaining deeper
+understanding of the problems in people’s lives and thinking of the ways that
+technologies may solve or exacerbate them. Agboka’s (2013, 2014) decolonialized
+methodologies provide guidance regarding not just what sites we, as technical
+communication researchers, ought to research (in his case, intercultural), but how
+we need to reflect and actively interrogate our own research practices—including
+ways that we can be more reflexive in our choice of methods and positioning in the
+research project, and humbler in our interactions with participants. The method
+of Photovoice, which is common to healthcare and educational research, but less
+442 Journal of Technical Writing and Communication 46(4)
+so in our fields, also offers promise due to its role in casting the participant in the
+role of the researcher (Wang & Burris, 1997). Finally, providing a clearer inves-
+tigation of values and unintended consequences in the design process can help
+safeguard against purely functional solutions that may foreclose or constrain
+agency among vulnerable populations. The value-sensitive design approach
+provides a toolkit of methods and approaches that can guide the way in this
+recommendation (Friedman et al., 2006).
+To participate in public deliberation, citizens must engage in sophisticated
+rhetorical strategies (Simmons & Grabill, 2007). The spaces in which public
+deliberation takes place often continue to exclude the marginalized and vul-
+nerable. How can technical communication practitioners and scholars work
+with advocacy organizations to help uncover and communicate the needs of
+these populations in a way that can be included or heard in larger civic
+conversations?
+Finally, for researchers in technical communication and design, the construct
+of resource-constraints can be a helpful and productive entre ́ e into spaces where
+vulnerable populations may be impacted. By starting with a resource, such as
+transportation or housing, as the study above demonstrates, we come to see
+design needs in a different light. Starting with constraints helps identify poten-
+tially vulnerable users and populations within the informational ecosystem and
+provides for a way to investigate how these constraints impact use and therefore
+can provide inspiration for design.
+In conclusion, while technologies have the potential to intervene in a positive
+way, we need to consider how they are designed and how the design impacts
+people in need. By focusing on vulnerable populations and understanding their
+unique perspectives, we can help create more equitable access to services and
+systems. In this article, my aim was to contribute to the growing interest in social
+justice, in our research and pedagogy. Human-centered design as an approach
+has the potential to enlarge the scope of what we pay attention to when design-
+ing information, services, and systems. However, to consider users and their
+needs alone is not enough. Instead, taking a principled stance to understand
+the lives, needs, and values of vulnerable populations requires technical commu-
+nicators and designers to ask different questions and therefore has the potential
+to bring about different, and more equitable, design solutions.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publica-
+tion of this article.
+Note
+1. All participant names are pseudonyms. The quotes have been transcribed from
+participant interviews. Some have been edited slightly for clarity.
